@@ -26,5 +26,9 @@ public class ProducerDemo {
         // send data
         producer.send(record);
 
+        // flush data
+        producer.flush();
+        producer.close();
+
     }
 }
