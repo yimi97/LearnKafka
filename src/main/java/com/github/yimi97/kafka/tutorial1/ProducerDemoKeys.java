@@ -7,7 +7,7 @@ import org.apache.kafka.common.serialization.StringSerializer;
 
 import java.util.Properties;
 
-public class ProducerDemo {
+public class ProducerDemoKeys {
     public static void main(String[] args) {
         String bootstrapServers = "vcm-15078.vm.duke.edu:9092";
         // create producer properties
