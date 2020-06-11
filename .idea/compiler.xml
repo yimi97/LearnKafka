@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-course" />
+        <module name="LearnKafka" />
       </profile>
     </annotationProcessing>
   </component>
