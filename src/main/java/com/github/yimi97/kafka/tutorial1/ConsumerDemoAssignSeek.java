@@ -64,3 +64,6 @@ public class ConsumerDemoAssignSeek {
         logger.info("Exiting the application.");
     }
 }
+
+
+// test
